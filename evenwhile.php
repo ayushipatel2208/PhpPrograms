@@ -7,6 +7,7 @@ function even($start, $end){
         if($i % 2 == 0) {
         echo $i." ";
         }
+        $i++;
      }
 }
 
